@@ -1,4 +1,4 @@
-CMPS12B
+CMPS 12B: Introduction to Data Structures
 
 w/ Patrick Tantalo
 
