@@ -1,0 +1,21 @@
+Juan Andreas
+jandreas
+12B
+4/27/2016
+Table of Contents
+
+README
+Makefile
+Dictionary.java
+DictionaryClient.java
+DictionaryInterface.java
+DictionaryTest.java
+KeyNotFoundException.java
+DuplicateKeyException.java
+
+-compile by entering 'make <test file>'. Makefile does not make a 
+jar file for DictionaryTest.java
+
+-clean by entering 'make clean'
+
+-makefile also has a submit command - 'make submit'

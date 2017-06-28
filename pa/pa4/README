@@ -1,0 +1,20 @@
+Juan Andreas
+jandreas
+12B
+5/14/2016
+Table of Contents
+
+README
+Makefile
+Queue.java
+QueueInterface.java
+QueueTest.java
+Job.java
+Simulation.java
+
+-compile by typing 'make'
+
+-clean by typing 'make clean'
+-clean .trc and .rpt files by typing 'make cleanEx'
+
+-Makefile also has submit command 'make submit'
