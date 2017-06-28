@@ -1,1 +1,5 @@
-# CMPS-12B
+CMPS12B
+
+w/ Patrick Tantalo
+
+jandreas@ucsc.edu
