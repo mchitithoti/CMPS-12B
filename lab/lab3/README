@@ -1,0 +1,13 @@
+Juan Andreas
+jandreas
+12B
+4/18/2016
+Table of Contents
+
+README
+Makefile
+FileReverse.c
+
+Run by:
+make FileReverse
+FileReverse <input file> <output file>

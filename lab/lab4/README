@@ -1,0 +1,13 @@
+Juan Andreas
+jandreas
+12M
+5/2/2016
+Table of Contents
+
+README
+Makefile
+charType.c
+
+compile by typing 'make'
+run by typing '<exe_file> <input_file> <out_file>'
+clean by typing 'make clean'

@@ -1,0 +1,20 @@
+Juan Andreas
+jandreas
+12M
+5/10/2016
+Table of Contents
+
+README
+Makefile
+Dictionary.c
+DictionaryClient.c
+Dictionary.h
+DictionaryTest.c
+
+-compile DictionaryClient by typing 'make'
+-compile DictionaryTest by typing 'make test'
+
+-clean DictionaryClient by typing 'make clean'
+-clean DictionaryTest by typing 'make cleanTest'
+
+-Makefile also has a submit command - 'make submit'

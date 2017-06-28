@@ -1,0 +1,19 @@
+Juan Andreas
+jandreas
+12B
+6/1/2016
+Table of Contents
+
+README
+Makefile
+Dictionary.java
+DictionaryClient.java
+DictionaryInterface.java
+KeyNotFoundException.java
+DuplicateKeyException.java
+
+-compile by typing 'make'
+
+-clean by entering 'make clean'
+
+-makefile also has a submit command - 'make submit'

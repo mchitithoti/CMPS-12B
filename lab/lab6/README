@@ -1,0 +1,19 @@
+Juan Andreas
+jandreas
+12M
+5/23/2016
+Table of Contents
+
+README
+Makefile
+List.java
+ListClient.java
+ListInterface.java
+ListIndexOutOfBoundsException.java
+ListTest.java
+
+-compile ListClient by typing 'make'
+
+-clean DictionaryClient by typing 'make clean'
+
+-Makefile also has a submit command - 'make submit'
